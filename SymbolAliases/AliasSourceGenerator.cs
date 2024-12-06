@@ -4,7 +4,7 @@ using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
 using Microsoft.CodeAnalysis.Text;
 
-namespace GodotSharp.SymbolAliases;
+namespace DoveDraft.SymbolAliases;
 
 [Generator]
 internal class AliasSourceGenerator : IIncrementalGenerator

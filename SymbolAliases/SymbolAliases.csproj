@@ -6,8 +6,8 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
         <EnforceExtendedAnalyzerRules>true</EnforceExtendedAnalyzerRules>
-        <AssemblyName>GodotSharp.SymbolAliases</AssemblyName>
-        <RootNamespace>GodotSharp.SymbolAliases</RootNamespace>
+        <AssemblyName>DoveDraft.SymbolAliases</AssemblyName>
+        <RootNamespace>DoveDraft.SymbolAliases</RootNamespace>
         <Title>Godot Symbol Aliases</Title>
         <Authors>BOBBO-NET, holly.fromthe.nexus</Authors>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>

@@ -1,4 +1,4 @@
-﻿namespace GodotSharp.SymbolAliases;
+﻿namespace DoveDraft.SymbolAliases;
 
 [AttributeUsage(AttributeTargets.Field | AttributeTargets.Property | AttributeTargets.Method)]
 public sealed class AliasAttribute : Attribute
